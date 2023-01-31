@@ -1,4 +1,4 @@
-This is my solution to the *Engineering Internship Prompt** for Sports Reference.
+This is my solution to the **Engineering Internship Prompt** for Sports Reference.
 
 My project is written in Python and uses both `pandas` and `json`.
 
